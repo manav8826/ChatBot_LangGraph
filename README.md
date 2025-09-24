@@ -48,7 +48,8 @@ python langgraph_backend.py
 6. Run the Frontend
 streamlit run streamlit_frontend.py
 
-'''📂 Project Structure
+📂 Project Structure
+'''
 ├── langgraph_backend.py   # Backend logic using LangGraph
 ├── streamlit_frontend.py  # Streamlit UI for chatbot
 ├── requirements.txt       # Python dependencies
