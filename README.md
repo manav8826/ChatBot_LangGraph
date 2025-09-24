@@ -1,4 +1,5 @@
-[Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)]([https://manav8826-chatbot-langgraph-streamlit-frontend-wxl7es.streamlit.app/
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://manav8826-chatbot-langgraph-streamlit-frontend-wxl7es.streamlit.app/)
+
 
 
 
