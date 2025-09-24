@@ -17,7 +17,7 @@ A conversational **AI Chatbot** built with [LangGraph](https://www.langchain.com
 ## 🚀 Getting Started
 
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/manav8826/ChatBot_LangGraph/tree/main)
 cd YOUR_REPO
 
 2. Create & Activate Virtual Environment
