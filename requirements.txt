@@ -5,3 +5,5 @@ streamlit
 langgraph
 dotenv
 typing
+langgraph.checkpoint.sqlite 
+sqlite3
