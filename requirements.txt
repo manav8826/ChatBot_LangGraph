@@ -6,4 +6,4 @@ langgraph
 dotenv
 typing
 langgraph.checkpoint.sqlite 
-sqlite3
+langchain-community
