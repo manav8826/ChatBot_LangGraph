@@ -1,5 +1,5 @@
 import streamlit as st
-from langgraph_database_backend import chatbot, retrieve_all_threads
+from langgraph_tool_backend import chatbot, retrieve_all_threads
 from langchain_core.messages import HumanMessage
 import uuid
 
@@ -88,7 +88,10 @@ if user_input:
         st.text(user_input)
 
     #CONFIG = {'configurable': {'thread_id': st.session_state['thread_id']}}
-
+    
+    
+    # this config beauacse of langsmith separare thread for separate chat
+    
     CONFIG = {
         "configurable": {"thread_id": st.session_state["thread_id"]},
         "metadata": {
