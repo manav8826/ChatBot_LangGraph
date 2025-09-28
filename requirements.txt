@@ -7,3 +7,4 @@ dotenv
 typing
 langgraph.checkpoint.sqlite 
 langchain-community
+duckduckgo-search
